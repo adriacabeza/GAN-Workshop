@@ -1,18 +1,14 @@
-# GAN-Workshop
-[![HitCount](http://hits.dwyl.io/adriacabeza/GAN-workshop.svg)](http://hits.dwyl.io/adriacabeza/GAN-workshop)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adriacabeza/GAN-workshop)
-[![GitHub stars](https://img.shields.io/github/stars/adriacabeza/Unnamed.svg)](https://GitHub.com/adriacabeza/GAN-workshop/stargazers/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/adriacabeza/GAN-workshop.svg)](https://github.com/adriacabeza/GAN-workshop)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adriacabeza/GAN-workshop/)
-
-Introducción a las Redes Generativas Adversarias :robot:. Además de su explicación, el repositorio contiene un proyecto, hecho en dos días así que no es perfecto, que coloriza imágenes en blanco y negro usando una conditional GAN. 
+# Introducción a las Redes Generativas Adversarias :robot:  + Autocolorizador 🌈
+[![HitCount](http://hits.dwyl.io/adriacabeza/GAN-workshop.svg)](http://hits.dwyl.io/adriacabeza/GAN-workshop)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adriacabeza/GAN-workshop)[![GitHub stars](https://img.shields.io/github/stars/adriacabeza/Unnamed.svg)](https://GitHub.com/adriacabeza/GAN-workshop/stargazers/)[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/adriacabeza/GAN-workshop.svg)](https://github.com/adriacabeza/GAN-workshop)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adriacabeza/GAN-workshop/)
 
 
 ## Charla: Introducción a las Redes Generativas Adversarias
 El contenido más teórico de la charla está disponible en las [slides](slides/slides.pdf).
 
 ## Proyecto: Autocolorizador
+
+Además para ver un uso de las GANs y su implementación, se ha hecho este pequeño proyecto que pretende colorizar imágenes en blanco y negro usando una conditional GAN. 
+
 ### Prerequisites
 - Para instalar los requerimientos, usa el requirements.txt (vas a necesitarlos para preparar el dataset).
 ```bash
@@ -34,7 +30,7 @@ Aquí podemos ver algunos resultados obtenidos (hand-picked) tras un día de tra
 |   ![](docs/output7.png)    |
 |   ![](docs/output8.png)    |
 |   ![](docs/output9.png)    |
-|   ![](docs/output10.png)    |
+|   ![](docs/output.png)   |
 
 Además puedes descargarte los weights del generador por si quéreis hacer pruebas: **[generador](./weights/generator.h5)**.
 
