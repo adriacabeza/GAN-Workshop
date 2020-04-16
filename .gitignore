@@ -1,3 +1,11 @@
+.DS_Store
+# Datasets
+*.tar.gz
+*.png
+*.jpg
+*.jpeg
+*.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
