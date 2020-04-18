@@ -1,6 +1,6 @@
 <h1 align="center"> Introducción a las Redes Generativas Adversarias :robot:  + Autocolorizador 🌈 </h1>
 
-[![HitCount](http://hits.dwyl.io/adriacabeza/GAN-workshop.svg)](http://hits.dwyl.io/adriacabeza/GAN-workshop)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adriacabeza/GAN-workshop)[![GitHub stars](https://img.shields.io/github/stars/adriacabeza/Unnamed.svg)](https://GitHub.com/adriacabeza/GAN-workshop/stargazers/)[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/adriacabeza/GAN-workshop.svg)](https://github.com/adriacabeza/GAN-workshop)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adriacabeza/GAN-workshop/)
+[![HitCount](http://hits.dwyl.io/adriacabeza/GAN-workshop.svg)](http://hits.dwyl.io/adriacabeza/GAN-workshop)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adriacabeza/GAN-Workshop)[![GitHub stars](https://img.shields.io/github/stars/adriacabeza/GAN-Workshop.svg)](https://GitHub.com/adriacabeza/GAN-Workshop/stargazers/)[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/adriacabeza/GAN-Workshop.svg)](https://github.com/adriacabeza/GAN-Workshop)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adriacabeza/GAN-Workshop/)
 
 
 ## Charla: Introducción a las Redes Generativas Adversarias
@@ -33,7 +33,7 @@ Aquí podemos ver algunos resultados obtenidos (hand-picked) tras un día de tra
 |   ![](docs/output9.png)    |
 |   ![](docs/output.png)   |
 
-Además puedes descargarte los weights del generador por si quéreis hacer pruebas: **[generador](./weights/generator.h5)**.
+Además puedes descargarte los weights del generador por si queréis hacer pruebas: **[generador](./weights/generator.h5)**.
 
 
 ### Arquitectura
